@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    faraday (1.0.1)
+      multipart-post (>= 1.2, < 3)
+    multipart-post (2.1.1)
+    retriable (3.1.2)
+    ruby-progressbar (1.10.1)
+    rubyzip (2.3.0)
+    solr_wrapper (2.2.0)
+      faraday
+      retriable
+      ruby-progressbar
+      rubyzip
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  solr_wrapper
+
+BUNDLED WITH
+   2.1.2

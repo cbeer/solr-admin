@@ -1,0 +1,3 @@
+# Place any default configuration for solr_wrapper here
+cloud: true
+port: 8983
